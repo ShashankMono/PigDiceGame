@@ -35,6 +35,10 @@ namespace PigDiceGame.Presentation
                     case 2:
                         Environment.Exit(0);
                         break;
+
+                    default:
+                        Console.WriteLine("Please choose correct option!");
+                        break;
                 }
             }
         }
@@ -60,6 +64,10 @@ namespace PigDiceGame.Presentation
                 case 2:
                     Console.WriteLine($"{Services.CheckWinOrLoss(newGame)} your score is: {newGame.PlayerScore}");
                     StartOrEndGame();
+                    break;
+
+                default:
+                    Console.WriteLine("Please choose correct option!");
                     break;
             }
         }
