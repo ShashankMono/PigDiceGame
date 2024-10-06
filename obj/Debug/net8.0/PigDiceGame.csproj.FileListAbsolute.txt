@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\bin\Debug\net8.0\PigDiceGame.exe
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\bin\Debug\net8.0\PigDiceGame.deps.json
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\bin\Debug\net8.0\PigDiceGame.runtimeconfig.json
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\bin\Debug\net8.0\PigDiceGame.dll
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\bin\Debug\net8.0\PigDiceGame.pdb
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\PigDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\PigDiceGame.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\PigDiceGame.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\PigDiceGame.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\PigDiceGame.dll
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\refint\PigDiceGame.dll
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\PigDiceGame.pdb
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\PigDiceGame.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\PigDice\PigDiceGame\obj\Debug\net8.0\ref\PigDiceGame.dll

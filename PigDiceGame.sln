@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigDiceGame", "PigDiceGame.csproj", "{0229D41E-777A-4224-8080-C70C6C547115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0229D41E-777A-4224-8080-C70C6C547115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0229D41E-777A-4224-8080-C70C6C547115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0229D41E-777A-4224-8080-C70C6C547115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0229D41E-777A-4224-8080-C70C6C547115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE16797-E398-4FB8-8A8F-95B88E26D81C}
+	EndGlobalSection
+EndGlobal
